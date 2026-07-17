@@ -1,2 +1,3 @@
-# Mkumar-den
-Thinker Tinker AI experiments collection.
+#Agents with LangChain 
+A static agent : get the concept of agent. programmed.
+A dynamic agent: get the concept of agentic workflow and orchestration
