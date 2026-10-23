@@ -35,7 +35,3 @@ A reproducible dependency environment and complete current execution instruction
 - **LangGraph notebook:** `nvidia/nemotron-3-super-120b-a12b`
 
 These are separate examples, not a controlled comparison between frameworks or models.
-
-## Related project
-
-For a concrete business workflow with tests and live evaluation, see [Retail Agent and Evaluation](https://github.com/manimalakumar/Hermes-Agent-n-Eval).
