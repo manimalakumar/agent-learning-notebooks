@@ -6,7 +6,7 @@ Two learning notebooks exploring different approaches to agent execution: genera
 
 | Notebook | Focus |
 | --- | --- |
-| [Static one-shot agent](Static_OneShot_Agent.ipynb) | A fixed workflow as an introduction to agent concepts. |
+| [Static one-shot agent](Static_OneShot_Agent.ipynb) | Code-generating agent / Generates and executes Python with smolagents. |
 | [Agent with graph orchestration](src/nb/Agent_with_LangChain_Grpah.ipynb) | State, memory, nodes, and routing in an agent workflow. |
 
 Read the cells and any saved outputs on GitHub to explore the examples.
